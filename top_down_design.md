@@ -1,0 +1,52 @@
+
+- read menu
+	- locate menu
+		- check table for rectangular shape with words on it
+		- check for large menu board sometimes located behind a cash register or behind a drive thru speaker
+		- check online if ordering delivery or takeout
+	- read menu silently to yourself
+		- read headings of sections
+		- if interested in a section, continue reading items in section
+- decide on food
+	- consider dietary restrictions
+	- determine amount desired
+		- consider hunger levels 
+			- order entree or 2-3 smaller items if you haven't eaten in more than 4 hours 
+		- consider nutritional need
+			- choose an item that will assist you in meeting protein, fiber, fat, caloric goals
+		- consider future energy expenditures
+			- if planning strenuous exercise, eat an entree
+		- choose items that will satiate desires
+		- consider number of people that will eat the food
+			- order approximately 1 entree per person if ordering full meals
+		- consider amount of time available to receive food and eat food
+		- consider price
+			- determine your maximum desired expenditure and do not exceed it
+	- determine type of food desired
+		- choose from appetizer, small plate, entree, soup, salad, dessert
+		- consider price
+- order food from staff
+	- find staff member to take your order 
+		- if sitting, wait for waitstaff
+		- if in drive thru, wait to be addressed through speaker
+		- if at food truck or fast food or fast casual restaurant, wait in line to give order to cashier
+		- if ordering 
+	- greet staff member who asks for your order
+		- say hello or other greeting
+		- make eye contact if possible
+		- smile
+	- listen to any daily specials
+		- order a special if it fits your food desires
+	- ask for clarification on any items if necessary
+		- ask about ingredients in desired foods if allergies or dietary restrictions are a concern
+	- ask for advice on items if necessary
+	- order desired item(s)
+		- say "I would like ..." 
+		- list desired items
+	- express gratitude to staff member for taking your order
+- recieve or retrieve food
+	- if at a sit-down restaurant, remain seated at table until order is delivered or name is called
+	- if at a food truck, wait for your name to be called and retrieve food when called
+	- if at a drive-through, wait at window after paying to receive food, then drive away
+	- if ordering delivery, wait for order to be delivered
+	- if ordering takeout, drive to restaurant at estimated time given by staff, walk to host and give your name
