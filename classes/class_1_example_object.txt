@@ -1,0 +1,10 @@
+poutine
+
+hot: true
+ingredients: [potatoes, cheese curds, brown gravy]
+prep_time_minutes: 12
+
+order_item: add poutine to table's order
+enter_special_request: input customer request (example: extra cheese curds)
+duplicate_item: add 1 more order of poutine to table's order
+
