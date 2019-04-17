@@ -1,0 +1,10 @@
+Staff
+
+start_date (datetime)
+wage_hourly (float)
+department (string)
+
+give_overtime_pay (changes hourly wage for a given time period to time and a half)
+add_to_shift (add staff member to schedule)
+send_tax_return (sends tax information to staff member)
+
