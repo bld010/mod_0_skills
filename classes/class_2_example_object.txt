@@ -1,0 +1,11 @@
+Jefferson_Airplane
+
+start_date (20180402)
+wage_hourly (17.25)
+department (front_of_house)
+
+give_overtime_pay (pays Jefferson_Airplane $25.87/hour for given time period)
+add_to_shift (adds Jefferson_Airplane to a shift on the staff schedule)
+send_tax_return (sends tax information to Jefferson_Airplane's address on file)
+
+
