@@ -1,6 +1,6 @@
 Staff
 
-name (string)
+start_date (datetime)
 wage_hourly (float)
 department (string)
 
