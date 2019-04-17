@@ -1,0 +1,11 @@
+Appetizer
+
+hot (boolean)
+ingredients (array)
+prep_time_minutes (integer)
+
+order_item (places a particular item onto a table's order)
+enter_special_request (enters notes on order for special instructions/request from customer)
+duplicate_item (duplicates an appetizer on an order)
+
+
